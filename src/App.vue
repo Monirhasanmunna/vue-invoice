@@ -145,10 +145,6 @@
             </button>
         </div>
 
-        <br>
-        <p>{{ data }}</p>
-
-
         <div class="mt-[200px]">
             <div class="flex justify-between">
                 <div class="flex flex-col space-y-5 w-1/2">
